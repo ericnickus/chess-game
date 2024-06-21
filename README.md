@@ -1,3 +1,14 @@
+# This is a react app copied from https://www.geeksforgeeks.org/building-a-web-based-chess-game-with-react-and-chess-js/
+
+There is some documentation help installing this there.   
+
+There is NO LOGIC for the computer playing chess against you , I think it's random so you will win undoubtedly.
+It is drag and drop so need to implement point and click for the phone app but it's a starting point.  
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
